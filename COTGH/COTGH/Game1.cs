@@ -4,8 +4,8 @@ using Microsoft.Xna.Framework.Input;
 
 namespace COTGH
 {
-    /// <summary>
-    /// This is the main type for your game.
+    /// <summary> 
+    /// This is the main type for your game.                                                       
     /// </summary>
     public class Game1 : Game
     {
@@ -14,7 +14,7 @@ namespace COTGH
         
         public Game1()
         {
-            graphics = new GraphicsDeviceManager(this);
+            graphics = new GraphicsDeviceManager(this);                                                        
             Content.RootDirectory = "Content";
         }
 
